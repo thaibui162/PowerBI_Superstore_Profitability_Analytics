@@ -11,8 +11,6 @@ A five-page Power BI report that turns four years of a global retailer's sales i
 | **Pages**    | Business Overview · Market · Product · Operations & Returns · Insights                            |
 | **File**     | [`Superstore_Dashboard.pbix`](Superstore_Dashboard.pbix)                                         |
 
-> **Scope note.** The visual system — the left-hand anchor-scorecard column, the field parameters and the "by dimension" matrix — is shared with my earlier [PowerBI_HR_Workforce_Analytics](https://github.com/thaibui162/PowerBI_HR_Workforce_Analytics) project, kept deliberately consistent across my portfolio. New to this project are the **Design Thinking process** behind the page structure (§2), the Superstore data model and its ~80 DAX measures, the market and sub-category strategy-map framing, and all of the analysis below. The earth-tone colour palette is a published one.
-
 ---
 
 ## Key takeaways
